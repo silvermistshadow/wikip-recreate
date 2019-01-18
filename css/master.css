@@ -1,0 +1,52 @@
+.sidebar {
+  float: left;
+  width: 15%;
+}
+
+.main {
+  width: 85%;
+  display: inline-block;
+}
+
+.portals {
+  float: right;
+}
+
+.link-list {
+  list-style: none;
+}
+
+.float-right {
+  float: right;
+}
+
+
+.panel-heading {
+  font-size: 120%;
+  font-weight: bolder;
+}
+
+.panel {
+  min-height: 200px;
+  clear: both;
+}
+
+img {
+  border: 0;
+  vertical-align: middle;
+}
+
+.featured {
+  float: left;
+  width: 133px;
+  height: 148px;
+  padding-left: 8px;
+}
+
+.main-left {
+  float: left;
+}
+
+.panel-body {
+  min-height: 100px;
+}
